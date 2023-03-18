@@ -1,7 +1,7 @@
 ## 功能
 1. 基于NuxusPHP的PT站签到,说谢谢,吼吼箱,投票
 2. 基于Discuz的网站 [天使动漫,不移之火...]签到
-3. HIFI,贴吧,SMZDM 签到
+3. HIFI,贴吧,SMZDM 签到   
 ## 使用
 0. Fork仓库
 1. 添加环境变量,Settings > Secrets > New secret > 添加如下几个环境变量
